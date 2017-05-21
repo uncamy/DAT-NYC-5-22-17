@@ -1,4 +1,3 @@
-
 ## DAT NY 5-22-17 Course Repository
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/new-york) in New York (05/22/17 - 08/02/17).
@@ -10,16 +9,16 @@ uncamy@gmail.com
 **Use [DAT-NYC] in the subject line** 
 
 **IA:**  
-Katie Rosman
+Katie Rosman  
 ksrosman@gmail.com
 
 ### Day 1 Survey  
 [Fill me out on day 1](https://goo.gl/forms/b1t7Hx9PiHHUa1sj2)
 
-###Exit Ticket
+### Exit Ticket
 [Fill me out at the end of each class!](https://goo.gl/forms/nXRpmAIwhdmgGpQy1)
 
-###Course Description
+### Course Description
 
 This course provides data professional with the skills required
 to solve problems using computation that involve large data
@@ -53,9 +52,8 @@ Week | Monday 6:30pm-9:30pm | Wednesday 6:30pm-9:30pm
  8 | 7/10: Database technologies  | 7/12: Time series data 
  9 | 7/17: Create models with time series data | 7/19: Final Project work session
  10| 7/24: Student's Choice | 7/26: What's Next in Data Science
- 11| 7/31: Final project worksession | 8/2: Final project presentations
+ 11| 7/31: Final project worksession | 8/2: Final project presentations  
  
-
 
 _syllabus last updated: 5/21/17_
 
@@ -97,3 +95,6 @@ Please use email or Slack to schedule office hours. **Use [DAT-NYC] in the subje
 #### Slack
 
 You've all been invited to use Slack for chat during class and the day. Please consider this **the primary way to contact other students and our IA**. The IA will be in Slack during class to handle questions. Amy **does not respond to Slack messages**. Please use email with [DAT-NYC] in the subject to reach her.
+
+# DAT-NYC-5.22.17
+>>>>>>> a805cc40c6989f2f171e8d7fadfcdb94161ba434
