@@ -61,7 +61,7 @@ _syllabus last updated: 5/21/17_
 
 ### Homework Schedule
 
-Please submit completed homework assignments to the appropriate [Google Drive](https://drive.google.com/drive/folders/0BwX2caU-SVZgUjNRRTNUM3ozSkk?usp=sharing) folder. 
+Please submit completed homework assignments to the appropriate [Google Drive](https://drive.google.com/drive/folders/0BwX2caU-SVZgTVBnREtDQ0V1MHc?usp=sharing) folder. 
 
 
 HW | Topics |  Due | Feedback
