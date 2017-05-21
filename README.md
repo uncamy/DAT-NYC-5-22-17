@@ -4,7 +4,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 
 
-**Instructor:** [Dr. Amy Roberts](https://generalassemb.ly/instructors/amy-roberts/6290)  
+**Instructor:** 
+[Dr. Amy Roberts](https://generalassemb.ly/instructors/amy-roberts/6290)  
 uncamy@gmail.com  
 **Use [DAT-NYC] in the subject line** 
 
@@ -42,7 +43,7 @@ General Assembly's Part-time courses are pass/fail programs.  We have certain re
 
 Week | Monday 6:30pm-9:30pm | Wednesday 6:30pm-9:30pm 
 --- | --- | --- 
- 1 |  | **UNIT 1** 5/22: What is data science? | 5/24: Research design and pandas
+ 1 |  **UNIT 1** 5/22: What is data science? | 5/24: Research design and pandas
  2 |  5/29 Holiday- No Class | 5/31: Statistical fundamentals I 
  3 | 6/5: Statistical fundamentals II | **UNIT 2** 6/7:  Linear regression
  4 | 6/12: Evaluating model fit | 6/14: Review & Final project prep
@@ -96,5 +97,3 @@ Please use email or Slack to schedule office hours. **Use [DAT-NYC] in the subje
 
 You've all been invited to use Slack for chat during class and the day. Please consider this **the primary way to contact other students and our IA**. The IA will be in Slack during class to handle questions. Amy **does not respond to Slack messages**. Please use email with [DAT-NYC] in the subject to reach her.
 
-# DAT-NYC-5.22.17
->>>>>>> a805cc40c6989f2f171e8d7fadfcdb94161ba434
